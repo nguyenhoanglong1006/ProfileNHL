@@ -32,7 +32,7 @@ export const Technology = () =>{
                             </h2>
                       
                             <div className="technology-category">
-                                <div className="item">
+                                <div className="item ">
                                     <img src={java} alt="Image"/>
                                 </div>
                                 <div className="item">
@@ -49,8 +49,10 @@ export const Technology = () =>{
                                 </div>
                             </div>
                             <div className="technology-category pt-4">
-                                <div className="item">
-                                    <img src={mui} alt="Image"/>
+                                <div className="item" >
+                                    <a href='https://www.instagram.com/nguyenhoanglong1006/'>
+                                        <img src={mui} alt="Image" />
+                                    </a>
                                 </div>
                                 <div className="item">
                                     <img src={tailwind} alt="Image"/>
@@ -82,7 +84,7 @@ export const Technology = () =>{
                             </h2>
                             <div className="technology-category">
                                 <div className="item">
-                                    <img src={sql} alt="Image"/>
+                                    <img src={sql} alt="Image" />
                                 </div>
                                 <div className="item">
                                     <img src={mySQL} alt="Image"/>
