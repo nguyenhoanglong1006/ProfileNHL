@@ -48,8 +48,8 @@ export const Banner = () => {
                     <Col xs={12} md={6} xl={7}>
                         <span className="tagline">Welcome to HoangLongDev</span>
                         <h1>{"Hi I'm "}<span className="wrap">{text}</span></h1>
-                        <p>Welcome to HoangLongDev's personal information website.<br/>
-                          This is a website that describes all of HoangLongDev's skills, technology, projects, contact information,...</p>
+                        <p>Welcome to HoangLongDev personal information website.<br/>
+                          This is a website that describes all of HoangLongDev skills, technology, projects, contact information,...</p>
                         <button onClick={() => console.log('connect')}>Let's connect <ArrowRightCircle/></button>
                     </Col>
                     <Col xs={10} md={2} xl={3}> 
