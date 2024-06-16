@@ -1,5 +1,4 @@
 import { Col, Container, Row } from "react-bootstrap";
-import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import meter1 from "../assets/img/front-end.png"
 import meter2 from "../assets/img/backend.png"
@@ -23,13 +22,13 @@ export const Skills = () =>{
                             <BsFillBrightnessHighFill/>  Have good knowledge of Java Core, Spring Boot, Spring Security, RESTful API, TypeScript Javascript Core, HTML CSS, AngularJS.</p>
                             <div className="skill-slider">
                                 <div className="item ">
-                                    <img src={meter1} alt="Image"/>
+                                    <img src={meter1} alt="Image2"/>
                                 </div>
                                 <div className="item">
-                                    <img src={meter3} alt="Image"/>
+                                    <img src={meter3} alt="Image1"/>
                                 </div>
                                 <div className="item-3">
-                                    <img src={meter2} alt="Image"/>
+                                    <img src={meter2} alt="Image3"/>
                                 </div>
                                
                             </div>

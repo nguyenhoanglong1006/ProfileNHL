@@ -1,4 +1,4 @@
-import { Col, Container, Row } from "react-bootstrap";
+import {  Container, Row } from "react-bootstrap";
 import "react-multi-carousel/lib/styles.css";
 import react from "../assets/img/React-icon.png"
 import angular from "../assets/img/angular.png"
@@ -33,46 +33,46 @@ export const Technology = () =>{
                       
                             <div className="technology-category">
                                 <div className="item ">
-                                    <img src={java} alt="Image"/>
+                                    <img src={java} alt="Image1"/>
                                 </div>
                                 <div className="item">
-                                    <img src={javascript} alt="Image"/>
+                                    <img src={javascript} alt="Image23"/>
                                 </div>
                                 <div className="item">
-                                    <img src={react} alt="Image"/> 
+                                    <img src={react} alt="Image3"/> 
                                 </div>
                                 <div className="item">
-                                    <img src={angular} alt="Image"/> 
+                                    <img src={angular} alt="Image4"/> 
                                 </div>
                                 <div className="item">
-                                    <img src={springboot} alt="Image"/> 
+                                    <img src={springboot} alt="Image5"/> 
                                 </div>
                             </div>
                             <div className="technology-category pt-4">
                                 <div className="item" >
                                     <a href='https://www.instagram.com/nguyenhoanglong1006/'>
-                                        <img src={mui} alt="Image" />
+                                        <img src={mui} alt="Image6" />
                                     </a>
                                 </div>
                                 <div className="item">
-                                    <img src={tailwind} alt="Image"/>
+                                    <img src={tailwind} alt="Image7"/>
                                 </div>
                                 <div className="item">
-                                    <img src={bootstrap} alt="Image"/> 
+                                    <img src={bootstrap} alt="Image8"/> 
                                 </div>
                                 <div className="item">
-                                    <img src={restapi} alt="Image"/> 
+                                    <img src={restapi} alt="Image9"/> 
                                 </div>
                                 <div className="item">
-                                    <img src={typescript} alt="Image"/> 
+                                    <img src={typescript} alt="Image10"/> 
                                 </div>
                             </div>
                             <div className="technology-category-1">
                                 <div className="item m-3">
-                                    <img src={html} alt="Image"/>
+                                    <img src={html} alt="Image11"/>
                                 </div>
                                 <div className="item m-3">
-                                    <img src={css} alt="Image"/>
+                                    <img src={css} alt="Image12"/>
                                 </div>
                             </div>
                         </div>
@@ -84,16 +84,16 @@ export const Technology = () =>{
                             </h2>
                             <div className="technology-category">
                                 <div className="item">
-                                    <img src={sql} alt="Image" />
+                                    <img src={sql} alt="Image13" />
                                 </div>
                                 <div className="item">
-                                    <img src={mySQL} alt="Image"/>
+                                    <img src={mySQL} alt="Image14"/>
                                 </div>
                                 <div className="item">
-                                    <img src={mongodb} alt="Image"/> 
+                                    <img src={mongodb} alt="Image15"/> 
                                 </div>
                                 <div className="item">
-                                    <img src={postgre} alt="Image"/> 
+                                    <img src={postgre} alt="Image16"/> 
                                 </div>
                                 
                             </div>
@@ -105,13 +105,13 @@ export const Technology = () =>{
                             </h2>
                             <div className="technology-category-1">
                                 <div className="item m-3">
-                                    <img src={postman} alt="Image"/>
+                                    <img src={postman} alt="Image17"/>
                                 </div>
                                 <div className="item m-3">
-                                    <img src={figma} alt="Image"/>
+                                    <img src={figma} alt="Image18"/>
                                 </div>
                                 <div className="item m-3">
-                                    <img src={github} alt="Image"/>
+                                    <img src={github} alt="Image19"/>
                                 </div>
                                
                             </div>

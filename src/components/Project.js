@@ -1,4 +1,4 @@
-import { Col, Container, Row } from "react-bootstrap";
+import { Container, Row } from "react-bootstrap";
 import "react-multi-carousel/lib/styles.css";
 
 export const Project = () =>{
